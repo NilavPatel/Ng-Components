@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html ng-app="app" ng-controller="AppController as mainCtrl">
+
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Test App Nilav</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="mobile-web-app-capable" content="yes">
+    <base href="/">
+</head>
+
+<body>    
+    <header-app text="mainCtrl.header"></header-app>  
+
+    <script src="../node_modules/angular/angular.js"></script>
+    <script src="../src/app/app.module.js"></script>
+    <script src="../src/app/app.controller.js"></script>   
+     
+    <script src="../src/app/shared/header/header.compo.js"></script>
+    <script src="../src/app/shared/header/header.controller.js"></script>
+
+    <script src="../src/app/shared/menu/menu.compo.js"></script>
+    <script src="../src/app/shared/menu/menu.controller.js"></script>
+</body>
+
+</html>
