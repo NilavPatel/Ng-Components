@@ -1,9 +1,9 @@
 {
   "name": "ng-components",
   "version": "0.1.0",
-  "description": "angular componets based example",
+  "description": "angular componets based example",  
   "repository": {
-    "url": ""
+    "url": "https://github.com/NilavPatel/Ng-Components"
   },
   "author": "Nilav Patel",
   "license": "MIT",
