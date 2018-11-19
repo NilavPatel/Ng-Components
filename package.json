@@ -1,18 +1,18 @@
 {
   "name": "ng-components",
   "version": "0.1.0",
-  "description": "angular componets based example",  
+  "description": "angularjs componets based example",
   "repository": {
     "url": "https://github.com/NilavPatel/Ng-Components"
   },
   "author": "Nilav Patel",
-  "license": "MIT",
+  "license": "",
   "devDependencies": {},
   "scripts": {
-    "start":"http-server -a localhost -p 8001"
+    "start": "http-server -a localhost -p 8001"
   },
   "dependencies": {
-    "angular": "^1.6.6",
-    "http-server": "^0.10.0"
+    "angular": "^1.7.5",
+    "http-server": "^0.11.1"
   }
 }
